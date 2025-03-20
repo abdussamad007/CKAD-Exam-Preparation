@@ -10,4 +10,6 @@ The exam assumes working knowledge of container runtimes and microservice archit
 – working with (OCI-compliant) container images
 – applying Cloud Native application concepts and architectures
 – working with and validating Kubernetes resource definitions
+# Official Exam prepration link can be found here https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+
 
